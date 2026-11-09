@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#EFEDE6"/>
+  <circle cx="620" cy="140" r="110" fill="#FFD033"/>
+  <path d="M0 360h800v240H0z" fill="#1A1A1A"/>
+  <path d="M120 120h200v200a0 0 0 0 1 0 0H120a100 100 0 0 1 0-200z" fill="#45D2CC"/>
+  <text x="60" y="470" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif"
+        font-size="56" font-weight="bold">Eventible</text>
+  <text x="60" y="520" fill="#8E8B83" font-family="Helvetica, Arial, sans-serif"
+        font-size="28">No image yet</text>
+</svg>
