@@ -10,7 +10,7 @@ booking a ticket, checking people in and the organiser and admin dashboards
 are not here, because those need the application running against a database —
 links into them land on a page that says so.
 
-This repository holds generated output only. It is rebuilt with
+This repository holds generated output only. It is rebuilt by
 `tools/export_static.py` in the application's own repository, which is
 private.
 
